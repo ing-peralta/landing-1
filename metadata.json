@@ -1,0 +1,6 @@
+{
+  "name": "Converxar.com – Chat Multilingüe en Tiempo Real",
+  "description": "Mensajería en tiempo real impulsada por Mistral AI, Vue.js y Vuetify. Traduce audio, texto, imágenes y archivos al idioma preferido de cada usuario.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
